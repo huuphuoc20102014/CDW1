@@ -1,0 +1,173 @@
+@font-face {
+  font-family: "FontAwesome";
+  src: url("../fonts/fontawesome-webfont3e6e.eot");
+  src: url("../fonts/fontawesome-webfont3e6e.eot?#iefix") format("embedded-opentype"), url("../fonts/fontawesome-webfont3e6e.otf") format("opentype"), url("../fonts/fontawesome-webfont3e6e.svg") format("svg"), url("../fonts/fontawesome-webfont3e6e.ttf") format("truetype"), url("../fonts/fontawesome-webfont3e6e.woff") format("woff"), url("../fonts/fontawesome-webfont3e6e.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+.type-1278 .testimonials {
+  background-color: #f8f8f8;
+}
+.type-1278 .testimonials .title-main {
+  color: #333;
+}
+.type-1278 .testimonials .title-main h2 {
+  font-size: 27px;
+  font-weight: 300;
+  margin-top: 0;
+  margin-bottom: 40px;
+  padding-bottom: 30px;
+  text-align: center;
+  background: url(../images/header-icon.png) no-repeat center bottom;
+  font-family: "Helvetica";
+}
+.type-1278 .testimonials .title-main h2 .title-secondary {
+  display: block;
+  margin-top: 15px;
+  font-family: open sans, sans-serif;
+  font-size: 14px;
+}
+.type-1278 .testimonials .testimonials-block_i {
+  padding: 30px 30px 60px 60px;
+  background: #fff;
+  font-size: 13px;
+  position: relative;
+}
+.type-1278 .testimonials .testimonials-block_i .testimonials-block_t {
+  margin-bottom: 15px;
+  position: relative;
+  font-weight: 400;
+  font-size: 14px;
+  font-family: "Helvetica";
+}
+.type-1278 .testimonials .testimonials-block_i .testimonials-block_t span {
+  color: #9CCC65;
+}
+.type-1278 .testimonials .testimonials-block_i .testimonials-block_t:before {
+  font-family: FontAwesome;
+  content: "\f10d";
+  display: inline-block;
+  color: #9CCC65;
+  position: absolute;
+  left: -30px;
+  font-size: 19px;
+  top: -4px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.type-1278 .testimonials .testimonials-block_i p {
+  font-weight: 300;
+  font-style: italic;
+  margin: 0;
+}
+.type-1278 .testimonials .testimonials-block_user {
+  padding-left: 30px;
+  margin-top: -43px;
+  position: relative;
+}
+.type-1278 .testimonials .testimonials-block_user .user_img {
+  float: left;
+  border: 2px solid #fafafa;
+  border-radius: 50%;
+}
+.type-1278 .testimonials .testimonials-block_user .user_img img {
+  width: 86px;
+  height: 86px;
+  border-radius: 50%;
+  border: 10px solid #fff;
+}
+.type-1278 .testimonials .testimonials-block_user .user_n {
+  float: right;
+  background: #fff;
+  padding: 5px 16px;
+  border-radius: 15px;
+  margin-top: 26px;
+  margin-right: 30px;
+  border: 2px solid #fafafa;
+  font-family: "Helvetica";
+}
+.type-1278 .testimonials .owl-carousel {
+  cursor: pointer;
+}
+.type-1278 .testimonials .owl-carousel .owl-nav .owl-next,
+.type-1278 .testimonials .owl-carousel .owl-nav .owl-prev {
+  border-radius: 50%;
+  padding: 10px 10px;
+  margin: 0 2px;
+  font-size: 18px;
+  line-height: 20px;
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  background-color: #9CCC65;
+  border: 1px solid #fafafa;
+  animation: bounceIn 4s;
+  -webkit-animation: bounceIn 4s;
+}
+.type-1278 .testimonials .owl-carousel .owl-nav .owl-prev {
+  position: absolute;
+  left: 0;
+  top: 40%;
+}
+.type-1278 .testimonials .owl-carousel .owl-nav .owl-next {
+  position: absolute;
+  right: 0;
+  top: 40%;
+}
+.type-1278 .testimonials .owl-carousel:hover   .owl-nav.disabled {
+  display: inline;
+}
+.type-1278 .testimonials .no-js .owl-carousel,
+.type-1278 .testimonials .owl-carousel.owl-loaded {
+  height: 226px;
+}
+@-webkit-keyframes bounceIn {
+  0% {
+    opacity: 0;
+    -webkit-transform: scale(.3);
+    transform: scale(.3);
+  }
+  50% {
+    opacity: 1;
+    -webkit-transform: scale(1.05);
+    transform: scale(1.05);
+  }
+  70% {
+    -webkit-transform: scale(.9);
+    transform: scale(.9);
+  }
+  100% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+  }
+}
+@keyframes bounceIn {
+  0% {
+    opacity: 0;
+    -webkit-transform: scale(.3);
+    -ms-transform: scale(.3);
+    transform: scale(.3);
+  }
+  50% {
+    opacity: 1;
+    -webkit-transform: scale(1.05);
+    -ms-transform: scale(1.05);
+    transform: scale(1.05);
+  }
+  70% {
+    -webkit-transform: scale(.9);
+    -ms-transform: scale(.9);
+    transform: scale(.9);
+  }
+  100% {
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+  }
+}
+.bounceIn {
+  -webkit-animation-name: bounceIn;
+  animation-name: bounceIn;
+  animation: bounceIn 1s infinite;
+  -webkit-animation: bounceIn 1s infinite;
+}

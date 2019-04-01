@@ -1,0 +1,75 @@
+@media screen and (min-width: 768px) {
+    .navbar-brand {
+        padding-left: 0;
+    }
+}
+
+.rating {
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+.rating li {
+    display: inline-block;
+}
+.rating li > .glyphicon-star {
+    font-size: 20px;
+}
+.glyphicon-star {
+    color: #ffc412 !important;
+}
+
+.hotel-list {
+    padding: 15px;
+}
+
+.hotel-list h1,
+.hotel-list h2,
+.hotel-list h3,
+.hotel-list h4,
+.hotel-list h5,
+.hotel-list h6 
+{
+    padding: 0;
+    margin: 0;
+}
+.mySlides1 {
+    display: none
+}
+/* Slideshow container */
+.slideshow-container 
+{
+  position: relative;
+  margin: auto;
+}
+
+/* Next & previous buttons */
+.prev_btn, .next_btn {
+  cursor: pointer;
+  position: absolute;
+  top: 12%;
+  width: auto;
+  padding: 12px;
+  margin-top: -22px;
+  color: black;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next_btn {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a grey background color */
+.prev_btn:hover, .next_btn:hover {
+  background-color: #f1f1f1;
+  color: black;
+}
+.panel_myslide {
+    padding: 15px;
+}

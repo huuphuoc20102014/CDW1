@@ -1,0 +1,504 @@
+.type-1296 {
+  text-align: center;
+  padding: 0 10rem 7.5rem 10rem;
+  display: block;
+  position: relative;
+  z-index: 9;
+}
+.type-1296 .head {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 3rem 10rem 4rem;
+}
+.type-1296 .head .subtitle {
+  display: block;
+  color: #1ea69a;
+  font-size: 1.5rem;
+  font-weight: bold;
+  line-height: 1.2;
+}
+.type-1296 .head .title {
+  font-size: 3.6rem;
+  margin: 0;
+  font-weight: 300;
+  padding: 0 0 1.5rem 0;
+}
+.type-1296 .head .desc {
+  font-size: 1.5rem;
+  line-height: 1.5;
+  color: #808080;
+}
+.type-1296 .land-detail {
+  margin: 0 auto;
+  max-width: 65rem;
+  padding: 0 0 3rem 0;
+  position: relative;
+}
+.type-1296 .land-detail .infor-land {
+  background: none;
+  border: none;
+  border-radius: 0;
+  padding: 0;
+  box-shadow: none;
+  margin: 0;
+  position: relative;
+  zoom: 1;
+}
+.type-1296 .land-detail .infor-land .owl-carousel {
+  display: none;
+  width: 100%;
+  position: relative;
+  z-index: 1;
+}
+.type-1296 .land-detail .infor-land .owl-carousel .owl-stage-outer {
+  position: relative;
+  overflow: hidden;
+  -webkit-transform: translate3d(0px,0px,0px);
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.type-1296 .land-detail .infor-land .owl-carousel .owl-item {
+  position: relative;
+  min-height: 1px;
+  float: left;
+  -webkit-backface-visibility: hidden;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-touch-callout: none;
+}
+.type-1296 .land-detail .infor-land .owl-carousel .owl-item img {
+  position: relative;
+  display: block;
+  width: 100%;
+  bottom: -19px;
+}
+.type-1296 .land-detail .infor-land .owl-carousel .owl-dots.disabled {
+  display: none;
+}
+.type-1296 .land-detail .infor-land .owl-carousel.owl-loaded {
+  display: block;
+}
+.type-1296 .land-detail .infor-land .owl-carousel.owl-loading {
+  opacity: 0;
+  display: block;
+}
+.type-1296 .land-detail .infor-land .owl-carousel .post-land {
+  padding: 0 1.5rem 3rem 1.5rem;
+}
+.type-1296 .land-detail .infor-land .owl-carousel .post-land figure {
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2;
+  display: block;
+}
+.type-1296 .land-detail .infor-land .owl-carousel .post-land img {
+  display: block;
+  border-style: none;
+  height: auto;
+  vertical-align: bottom;
+  max-width: 100%;
+  min-height: 416px;
+  transition: 0.2s transform linear, 0.2s -webkit-transform linear;
+}
+.type-1296 .land-detail .infor-land .owl-carousel .post-land .img-land {
+  margin: 0;
+  position: relative;
+}
+.type-1296 .land-detail .infor-land .owl-carousel .post-land .img-land a {
+  background-color: transparent;
+  color: #444;
+  text-decoration: none;
+  display: flex;
+}
+.type-1296 .land-detail .infor-land .owl-carousel .post-land .post-detail {
+  display: block;
+  width: 100%;
+  background: #fff;
+  padding: 2.5rem;
+  text-align: left;
+  margin: 0 auto;
+  max-width: 55rem;
+  position: relative;
+  margin-top: -11rem;
+  box-shadow: 0px 0px 5px 2px rgba(0,0,0,0.05);
+}
+.type-1296 .land-detail .infor-land .owl-carousel .post-land .post-detail .label-featured {
+  position: absolute;
+  left: 0;
+  top: -1.3rem;
+  z-index: 999;
+  display: inline-block;
+  font-size: 1.4rem;
+  background: #ea723d;
+  color: #fff;
+}
+.type-1296 .land-detail .infor-land .owl-carousel .post-land .post-detail .label-featured .featured {
+  position: relative;
+  padding: 0.5rem 0.5rem 0.5rem 1rem;
+}
+.type-1296 .land-detail .infor-land .owl-carousel .post-land .post-detail .label-featured span {
+  display: inline-block;
+  width: 0;
+  height: 0;
+  position: absolute;
+  right: -9px;
+  top: 0;
+  border: 0 solid transparent;
+  border-bottom-width: 16px;
+  border-top-width: 13px;
+  border-left: 9px solid #ea723d;
+  font-size: inherit;
+  font-weight: 400;
+  line-height: 1.2;
+}
+.type-1296 .land-detail .infor-land .owl-carousel .post-land .post-detail h3 {
+  margin: 0;
+  margin-bottom: 1.5rem;
+  font-size: 1.8rem;
+  font-family: "Rubik", sans-serif;
+  font-weight: 700;
+  margin-top: 2rem;
+  line-height: 1.2;
+}
+.type-1296 .land-detail .infor-land .owl-carousel .post-land .post-detail h3 a {
+  background-color: transparent;
+  text-decoration: none;
+  color: #1a1a1a;
+  font-size: 1.9rem;
+  font-weight: bold;
+  line-height: 1.5;
+  -webkit-transition: 0.2s all linear;
+  transition: 0.2s all linear;
+}
+.type-1296 .land-detail .infor-land .owl-carousel .post-land .post-detail h3 a:hover {
+  color: #1ea69a;
+  -webkit-transition: 0.2s all linear;
+  transition: 0.2s all linear;
+}
+.type-1296 .land-detail .infor-land .owl-carousel .post-land .post-detail .desciption {
+  font-size: 1.4rem;
+  line-height: 1.5;
+  margin-bottom: 2rem;
+  color: #808080;
+}
+.type-1296 .land-detail .infor-land .owl-carousel .post-land .post-detail .meta_wrap {
+  flex-wrap: wrap;
+  margin-bottom: 0.5rem;
+  align-items: flex-start;
+  display: flex;
+  -webkit-box-pack: start;
+  justify-content: flex-start;
+  -webkit-box-align: start;
+}
+.type-1296 .land-detail .infor-land .owl-carousel .post-land .post-detail .meta {
+  padding: 0 1.5rem 1.5rem 0;
+}
+.type-1296 .land-detail .infor-land .owl-carousel .post-land .post-detail .meta h4 {
+  font-family: "Rubik", sans-serif;
+  font-size: 1.3rem;
+  font-weight: bold;
+  margin: 0;
+  margin-bottom: 1rem;
+  line-height: 1.2;
+  color: #1a1a1a;
+}
+.type-1296 .land-detail .infor-land .owl-carousel .post-land .post-detail .meta svg {
+  vertical-align: middle;
+  fill: #b3b3b3;
+}
+.type-1296 .land-detail .infor-land .owl-carousel .post-land .post-detail .meta svg:not(:root) {
+  overflow: hidden;
+}
+.type-1296 .land-detail .infor-land .owl-carousel .post-land .post-detail .meta .figure {
+  font-size: 1.3rem;
+  font-weight: bold;
+  padding: 0 0 0 1rem;
+  line-height: 1.2;
+}
+.type-1296 .land-detail .infor-land .owl-carousel .post-land .post-detail .meta .label {
+  font-size: 1.3rem;
+  padding: 0 0 0 0.3rem;
+  font-weight: bold;
+  line-height: 1.2;
+  color: #545454;
+}
+.type-1296 .land-detail .infor-land .owl-carousel .post-land .post-detail .priceLabel .status {
+  font-size: 1.3rem;
+  font-weight: bold;
+  margin: 0;
+  margin-bottom: 0.5rem;
+}
+.type-1296 .land-detail .infor-land .owl-carousel .post-land .post-detail .priceLabel .price {
+  font-size: 2.2rem;
+  color: #1ea69a;
+}
+.type-1296 .land-detail .infor-land .owl-nav .owl-prev {
+  left: -15rem;
+}
+.type-1296 .land-detail .infor-land .owl-nav .owl-next {
+  right: -15rem;
+}
+.type-1296 .land-detail .infor-land .owl-nav .owl-next,
+.type-1296 .land-detail .infor-land .owl-nav .owl-prev {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  width: 73px;
+  height: 73px;
+  position: absolute;
+  top: 210px;
+  border-radius: 500rem;
+  -webkit-box-shadow: 0px 0px 5px 2px rgba(0,0,0,0.1);
+  box-shadow: 0px 0px 5px 2px rgba(0,0,0,0.05);
+  -webkit-transition: 0.2s all linear;
+  transition: 0.2s all linear;
+  color: #444;
+  text-decoration: none;
+}
+.type-1296 .land-detail .infor-land .owl-next:hover,
+.type-1296 .land-detail .infor-land .owl-prev:hover {
+  background: #1ea69a;
+  color: #fff;
+  transition: 0.2s transform linear, 0.2s -webkit-transform linear;
+}
+@media (max-width: 1280px) {
+  .type-1296 {
+    padding: 10rem 0 7rem 0;
+  }
+  .type-1296 .head {
+    padding: 3rem 10rem 4rem;
+  }
+  .type-1296 .land-detail {
+    max-width: 65rem;
+    padding: 3rem 0;
+  }
+  .type-1296 .land-detail .infor-land {
+    margin: 0 auto;
+  }
+  .type-1296 .land-detail .post-land {
+    width: 100%;
+  }
+  .type-1296 .land-detail .post-land img {
+    min-height: 416px;
+  }
+  .type-1296 .land-detail .post-land .post-detail {
+    padding: 2.5rem;
+    max-width: 55rem;
+  }
+  .type-1296 .land-detail .post-land .post-detail .meta {
+    padding: 0 1.5rem 1.5rem 0;
+  }
+  .type-1296 .land-detail .owl-prev {
+    left: -15rem;
+  }
+  .type-1296 .land-detail .owl-next {
+    right: -15rem;
+  }
+  .type-1296 .land-detail .owl-nav .owl-next,
+  .type-1296 .land-detail .owl-nav .owl-prev {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    width: 73px;
+    height: 73px;
+  }
+}
+@media (max-width: 1140px) {
+  .type-1296 {
+    padding: 9rem 0;
+  }
+  .type-1296 .head {
+    padding: 3rem 7rem 4rem;
+  }
+  .type-1296 .land-detail {
+    max-width: 65rem;
+    padding: 3rem 0;
+  }
+  .type-1296 .land-detail .post-land {
+    width: 100%;
+  }
+  .type-1296 .land-detail .post-land img {
+    min-height: 416px;
+  }
+  .type-1296 .land-detail .post-land .post-detail {
+    padding: 2rem;
+    max-width: 55rem;
+  }
+  .type-1296 .land-detail .post-land .post-detail .meta {
+    padding: 0 1rem 1rem 0;
+  }
+  .type-1296 .land-detail .owl-prev {
+    left: -15rem;
+  }
+  .type-1296 .land-detail .owl-next {
+    right: -15rem;
+  }
+  .type-1296 .land-detail .owl-nav .owl-next,
+  .type-1296 .land-detail .owl-nav .owl-prev {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    width: 73px;
+    height: 73px;
+  }
+}
+@media (max-width: 1024px) {
+  .type-1296 {
+    padding: 9rem 0 5rem 0;
+  }
+  .type-1296 .head {
+    padding: 3rem 5rem 2rem;
+  }
+  .type-1296 .land-detail {
+    max-width: 50rem;
+    padding: 3rem 0;
+  }
+  .type-1296 .land-detail .post-land {
+    width: 100%;
+  }
+  .type-1296 .land-detail .post-land img {
+    min-height: 416px;
+  }
+  .type-1296 .land-detail .post-land .post-detail {
+    padding: 2rem;
+    max-width: 55rem;
+  }
+  .type-1296 .land-detail .post-land .post-detail .meta {
+    padding: 0 1rem 1rem 0;
+  }
+  .type-1296 .land-detail .owl-prev {
+    left: -10rem;
+  }
+  .type-1296 .land-detail .owl-next {
+    right: -10rem;
+  }
+  .type-1296 .land-detail .owl-nav .owl-next,
+  .type-1296 .land-detail .owl-nav .owl-prev {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    width: 73px;
+    height: 73px;
+  }
+}
+@media (max-width: 768px) {
+  .type-1296 {
+    padding: 5rem 0 3rem 0;
+  }
+  .type-1296 .head {
+    padding: 0 5rem 5rem;
+  }
+  .type-1296 .land-detail {
+    max-width: 50rem;
+    padding: 0 0 3rem 0;
+  }
+  .type-1296 .land-detail .post-land {
+    width: 100%;
+  }
+  .type-1296 .land-detail .post-land img {
+    min-height: 350px;
+  }
+  .type-1296 .land-detail .post-land .post-detail {
+    padding: 2.5rem;
+    max-width: 45rem;
+  }
+  .type-1296 .land-detail .post-land .post-detail .meta {
+    padding: 0 1rem 1rem 0;
+  }
+  .type-1296 .land-detail .owl-next {
+    right: -10rem;
+  }
+  .type-1296 .land-detail .owl-prev {
+    left: -10rem;
+  }
+  .type-1296 .land-detail .owl-nav .owl-next,
+  .type-1296 .land-detail .owl-nav .owl-prev {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: none !important;
+    width: 73px;
+    height: 73px;
+  }
+}
+@media (max-width: 480px) {
+  .type-1296 {
+    padding: 3rem 0 0 0;
+  }
+  .type-1296 .head {
+    padding: 0 3rem 3rem;
+  }
+  .type-1296 .land-detail {
+    max-width: 100%;
+    padding: 0 3rem 3rem;
+  }
+  .type-1296 .land-detail .post-land {
+    width: 100%;
+  }
+  .type-1296 .land-detail .post-land img {
+    min-height: 300px;
+  }
+  .type-1296 .land-detail .post-land .post-detail {
+    padding: 2.5rem;
+    max-width: 45rem;
+  }
+  .type-1296 .land-detail .post-land .post-detail .meta {
+    padding: 0 1.5rem 1.5rem 0;
+  }
+  .type-1296 .land-detail .owl-next {
+    right: -2rem;
+  }
+  .type-1296 .land-detail .owl-prev {
+    left: -2rem;
+  }
+  .type-1296 .land-detail .owl-nav .owl-next,
+  .type-1296 .land-detail .owl-nav .owl-prev {
+    display: none;
+  }
+}
+@media (max-width: 320px) {
+  .type-1296 {
+    padding: 3rem 0 1.5rem;
+  }
+  .type-1296 .head {
+    padding: 0 2rem 3rem;
+  }
+  .type-1296 .land-detail {
+    max-width: 100%;
+    padding: 0 2rem 3rem;
+  }
+  .type-1296 .land-detail .post-land {
+    width: 100%;
+  }
+  .type-1296 .land-detail .post-land img {
+    min-height: 300px;
+  }
+  .type-1296 .land-detail .post-land .post-detail {
+    padding: 2rem;
+    max-width: 30rem;
+  }
+  .type-1296 .land-detail .post-land .post-detail .meta {
+    padding: 0 1rem 1rem 0;
+  }
+  .type-1296 .land-detail .owl-next {
+    right: -2rem;
+  }
+  .type-1296 .land-detail .owl-prev {
+    left: -2rem;
+  }
+  .type-1296 .land-detail .owl-nav .owl-next,
+  .type-1296 .land-detail .owl-nav .owl-prev {
+    display: none;
+  }
+}
